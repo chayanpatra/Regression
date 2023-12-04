@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1tTE8zgF5vBCbcFrHfUgpf8i1B0xcZlpG/view?usp=shari
 In this notebook, we delve into the dynamic world of Rossmann stores, a retail giant operating over 3,000 drug stores across 7 European countries. Our primary objective is to harness the power of regression analysis to accurately predict the sales figures of Rossmann stores. The journey begins with a comprehensive exploration of the dataset through Exploratory Data Analysis. Insights gained from this step lay the foundation for subsequent analyses. Visualizations and statistical summaries unveil patterns, outliers, and potential relationships within the data. To decipher the temporal nuances of Rossmann's business, we employ Exponential Moving Averages. This technique allows us to dissect trends and seasonality trends, providing valuable context for our predictive models.
 
 
-Regression Analysis:
+## Regression Analysis:
 
 Diving into the heart of predictive modelling, we explore various regression algorithms:
 

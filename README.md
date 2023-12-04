@@ -58,3 +58,7 @@ Decision Tree Analysis: Leveraging tree-based structures to capture non-linear p
 Random Forest Regression Analysis: Harnessing the power of ensemble learning to improve predictive accuracy.
 
 In comparison, surpassing its counterparts, the Random Forest algorithm emerges as the star performer, boasting an impressive 92% accuracy in predicting Rossmann store sales.
+
+## Conclusion and Future Work:
+
+In conclusion, our regression analysis paints a vivid picture of Rossmann store sales prediction. We highlight key findings, discuss algorithmic strengths and limitations, and propose avenues for future enhancement. This journey not only offers insights into the dynamics of retail sales but also sets the stage for further exploration and refinement of predictive models.

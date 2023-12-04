@@ -14,7 +14,11 @@ In this notebook, we delve into the dynamic world of Rossmann stores, a retail g
 Diving into the heart of predictive modelling, we explore various regression algorithms:
 
 Linear Regression Analysis: A classic approach assuming a linear relationship between variables.
+
 Regularized Regression Analysis (Lasso, Ridge, Elastic Net): Techniques to combat overfitting and enhance model robustness.
+
 Decision Tree Analysis: Leveraging tree-based structures to capture non-linear patterns in the data.
+
 Random Forest Regression Analysis: Harnessing the power of ensemble learning to improve predictive accuracy.
+
 In comparison, surpassing its counterparts, the Random Forest algorithm emerges as the star performer, boasting an impressive 92% accuracy in predicting Rossmann store sales.
